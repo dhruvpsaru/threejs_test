@@ -1,0 +1,14 @@
+{
+  "name": "theejs_test",
+  "version": "1.0.0",
+  "description": "this is just plain test of three js wiht html",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dhruvpsaru",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
