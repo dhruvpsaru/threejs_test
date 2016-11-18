@@ -4,7 +4,7 @@
   "description": "this is just plain test of three js wiht html",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "run": "node server.js"
   },
   "author": "dhruvpsaru",
   "license": "ISC",
